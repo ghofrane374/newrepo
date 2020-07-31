@@ -1,0 +1,10 @@
+.titre {
+  font-family: cursive;
+  font-style: italic;
+  color: palevioletred;
+  text-align: center;
+  text-decoration: underline overline black;
+}
+button {
+  margin-top: 30px;
+}
